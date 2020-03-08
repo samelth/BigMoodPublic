@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javafx" />
+  <library name="MongoDB">
+    <archive path="C:/Users/Samuel Leckborn/Documents/GitRepos/BigMoodPublic/Libraries/MongoDB/bson-3.12.1.jar" />
+    <archive path="C:/Users/Samuel Leckborn/Documents/GitRepos/BigMoodPublic/Libraries/MongoDB/mongodb-driver-3.12.1.jar" />
+    <archive path="C:/Users/Samuel Leckborn/Documents/GitRepos/BigMoodPublic/Libraries/MongoDB/mongodb-driver-core-3.12.1.jar" />
+  </library>
+  <library name="UndecoratorBis">
+    <archive path="C:/Users/Samuel Leckborn/Documents/GitRepos/BigMoodPublic/Libraries/UndecoratorBis/UndecoratorBis.jar" />
+  </library>
+</eclipse-userlibraries>
+
